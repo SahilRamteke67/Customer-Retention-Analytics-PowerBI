@@ -1,0 +1,101 @@
+Customer ID,Customer Name,Age,Gender,City/Region,Occupation,Income Level,Join Date,Last Purchase Date,Purchase Frequency,Average Order Value,Total Spend,Preferred Product Category,Purchase Channel,Customer Type,Engagement Score,Satisfaction Score,Retention Status,Customer Segment,Loyalty Tier
+CUST-001,Aarav Patel,28,Male,West,Engineer,High,2022-01-15,2023-11-01,15,120,1800,Electronics,Online,Returning,85,4,Retained,High Value,Gold
+CUST-002,Priya Sharma,34,Female,North,Teacher,Medium,2021-06-22,2023-10-15,8,85,680,Apparel,App,Returning,60,3,At Risk,Mid Value,Silver
+CUST-003,Rahul Verma,45,Male,South,Manager,High,2020-03-10,2022-12-05,2,150,300,Home Goods,Offline,Returning,20,2,Churned,Low Value,Bronze
+CUST-004,Ananya Singh,23,Female,East,Student,Low,2023-08-01,2023-11-20,4,45,180,Beauty,App,New,90,5,Retained,Mid Value,Silver
+CUST-005,Vikram Gupta,50,Male,West,Doctor,High,2019-11-11,2023-11-18,25,200,5000,Electronics,Online,Returning,95,5,Retained,High Value,Platinum
+CUST-006,Neha Desai,31,Female,West,Designer,Medium,2022-04-05,2023-09-10,6,75,450,Apparel,Offline,Returning,40,3,At Risk,Low Value,Bronze
+CUST-007,Rohan Joshi,29,Male,North,Analyst,Medium,2023-01-20,2023-11-22,12,110,1320,Electronics,Online,Returning,75,4,Retained,High Value,Gold
+CUST-008,Kavita Reddy,38,Female,South,Entrepreneur,High,2021-09-15,2023-11-25,20,250,5000,Home Goods,App,Returning,88,5,Retained,High Value,Platinum
+CUST-009,Amit Kumar,26,Male,East,Clerk,Low,2023-05-10,2023-06-15,1,50,50,Apparel,Offline,New,15,2,Churned,Low Value,Bronze
+CUST-010,Sneha Iyer,41,Female,South,Lawyer,High,2020-12-01,2023-10-28,18,180,3240,Beauty,App,Returning,82,4,Retained,High Value,Gold
+CUST-011,Manish Tiwari,35,Male,North,Sales,Medium,2022-07-14,2023-08-20,5,90,450,Electronics,Online,Returning,45,3,At Risk,Mid Value,Silver
+CUST-012,Pooja Das,27,Female,East,Nurse,Medium,2023-02-18,2023-11-10,9,65,585,Apparel,App,Returning,70,4,Retained,Mid Value,Silver
+CUST-013,Suresh Nair,48,Male,South,Banker,High,2019-05-22,2022-11-30,3,130,390,Home Goods,Offline,Returning,25,2,Churned,Low Value,Bronze
+CUST-014,Riya Kapoor,24,Female,West,Student,Low,2023-09-05,2023-11-26,7,40,280,Beauty,Online,New,80,5,Retained,Mid Value,Silver
+CUST-015,Karan Malhotra,32,Male,North,Engineer,Medium,2021-03-11,2023-11-15,14,105,1470,Electronics,App,Returning,78,4,Retained,High Value,Gold
+CUST-016,Anita Rao,39,Female,West,Teacher,Medium,2020-08-19,2023-09-05,4,80,320,Home Goods,Offline,Returning,35,3,At Risk,Low Value,Bronze
+CUST-017,Deepak Chawla,44,Male,North,Manager,High,2019-10-02,2023-11-20,22,220,4840,Electronics,Online,Returning,92,5,Retained,High Value,Platinum
+CUST-018,Meera Pillai,29,Female,South,Designer,Medium,2022-11-12,2023-10-18,10,95,950,Apparel,App,Returning,65,4,Retained,Mid Value,Silver
+CUST-019,Vishal Singh,25,Male,East,Analyst,Medium,2023-04-25,2023-05-20,1,60,60,Electronics,Offline,New,10,1,Churned,Low Value,Bronze
+CUST-020,Shweta Jain,36,Female,West,Doctor,High,2021-01-30,2023-11-28,19,190,3610,Beauty,Online,Returning,86,5,Retained,High Value,Gold
+CUST-021,Arun M,33,Male,South,Sales,Medium,2022-06-08,2023-09-25,7,85,595,Home Goods,App,Returning,50,3,At Risk,Mid Value,Silver
+CUST-022,Kriti Sanon,26,Female,North,Clerk,Low,2023-07-15,2023-11-12,5,55,275,Apparel,Online,New,72,4,Retained,Mid Value,Silver
+CUST-023,Gaurav Sharma,47,Male,East,Entrepreneur,High,2019-02-14,2022-10-10,4,160,640,Electronics,Offline,Returning,22,2,Churned,Low Value,Bronze
+CUST-024,Divya Patel,30,Female,West,Lawyer,High,2021-10-05,2023-11-24,16,140,2240,Beauty,App,Returning,84,4,Retained,High Value,Gold
+CUST-025,Nikhil Menon,28,Male,South,Engineer,Medium,2022-09-20,2023-10-05,8,100,800,Home Goods,Online,Returning,55,3,At Risk,Mid Value,Silver
+CUST-026,Radhika Apte,37,Female,West,Manager,High,2020-04-18,2023-11-27,21,210,4410,Apparel,App,Returning,90,5,Retained,High Value,Platinum
+CUST-027,Abhishek R,24,Male,North,Student,Low,2023-08-22,2023-09-15,2,45,90,Electronics,Offline,New,18,2,Churned,Low Value,Bronze
+CUST-028,Sonal Chauhan,31,Female,East,Analyst,Medium,2022-05-11,2023-11-19,11,115,1265,Beauty,Online,Returning,76,4,Retained,High Value,Gold
+CUST-029,Ravi Teja,42,Male,South,Banker,High,2020-07-30,2023-08-10,6,170,1020,Home Goods,App,Returning,42,3,At Risk,Mid Value,Silver
+CUST-030,Anushka S,25,Female,West,Designer,Medium,2023-03-14,2023-11-21,9,88,792,Apparel,Online,Returning,68,4,Retained,Mid Value,Silver
+CUST-031,Kartik A,29,Male,North,Sales,Medium,2021-12-05,2022-11-20,3,90,270,Electronics,Offline,Returning,28,2,Churned,Low Value,Bronze
+CUST-032,Priyanka C,34,Female,East,Doctor,High,2020-09-12,2023-11-29,17,195,3315,Beauty,App,Returning,89,5,Retained,High Value,Gold
+CUST-033,Varun D,36,Male,West,Entrepreneur,High,2019-06-25,2023-09-18,5,240,1200,Home Goods,Online,Returning,38,3,At Risk,Mid Value,Silver
+CUST-034,Shraddha K,27,Female,South,Teacher,Medium,2022-10-08,2023-11-14,13,75,975,Apparel,App,Returning,74,4,Retained,High Value,Gold
+CUST-035,Tiger S,23,Male,North,Student,Low,2023-09-20,2023-10-05,1,50,50,Electronics,Offline,New,12,1,Churned,Low Value,Bronze
+CUST-036,Disha P,30,Female,East,Engineer,Medium,2021-08-14,2023-11-25,15,110,1650,Beauty,Online,Returning,81,4,Retained,High Value,Gold
+CUST-037,Ayushmann K,38,Male,West,Lawyer,High,2020-02-18,2023-08-28,7,180,1260,Home Goods,App,Returning,48,3,At Risk,Mid Value,Silver
+CUST-038,Kiara A,26,Female,South,Analyst,Medium,2023-01-05,2023-11-22,10,95,950,Apparel,Online,Returning,66,4,Retained,Mid Value,Silver
+CUST-039,Ranbir C,45,Male,North,Manager,High,2019-11-30,2022-12-15,2,210,420,Electronics,Offline,Returning,24,2,Churned,Low Value,Bronze
+CUST-040,Alia B,32,Female,East,Designer,Medium,2022-03-22,2023-11-28,18,125,2250,Beauty,App,Returning,87,5,Retained,High Value,Platinum
+CUST-041,Rajkummar R,35,Male,West,Sales,Medium,2021-05-16,2023-09-02,6,80,480,Home Goods,Online,Returning,36,3,At Risk,Low Value,Bronze
+CUST-042,Taapsee P,29,Female,South,Doctor,High,2020-10-25,2023-11-20,14,200,2800,Apparel,App,Returning,79,4,Retained,High Value,Gold
+CUST-043,Vicky K,31,Male,North,Entrepreneur,High,2022-07-08,2023-08-10,4,230,920,Electronics,Offline,Returning,30,2,Churned,Mid Value,Silver
+CUST-044,Bhumi P,28,Female,East,Teacher,Medium,2023-04-12,2023-11-26,8,70,560,Beauty,Online,Returning,62,4,Retained,Mid Value,Silver
+CUST-045,Sidharth M,34,Male,West,Engineer,Medium,2021-02-19,2023-10-12,12,105,1260,Home Goods,App,Returning,52,3,At Risk,High Value,Gold
+CUST-046,Jacqueline F,37,Female,South,Lawyer,High,2019-08-05,2023-11-29,23,190,4370,Apparel,Online,Returning,94,5,Retained,High Value,Platinum
+CUST-047,John A,40,Male,North,Banker,High,2020-01-14,2022-10-25,3,160,480,Electronics,Offline,Returning,20,1,Churned,Low Value,Bronze
+CUST-048,Katrina K,33,Female,East,Analyst,Medium,2022-12-01,2023-11-23,16,115,1840,Beauty,App,Returning,85,4,Retained,High Value,Gold
+CUST-049,Hrithik R,43,Male,West,Manager,High,2019-04-28,2023-08-15,5,220,1100,Home Goods,Online,Returning,44,3,At Risk,Mid Value,Silver
+CUST-050,Kareena K,39,Female,South,Designer,Medium,2021-06-10,2023-11-27,19,130,2470,Apparel,App,Returning,88,5,Retained,High Value,Platinum
+CUST-051,Shahrukh K,50,Male,North,Entrepreneur,High,2018-11-02,2023-11-30,25,250,6250,Electronics,Online,Returning,96,5,Retained,High Value,Platinum
+CUST-052,Deepika P,36,Female,East,Doctor,High,2020-03-15,2023-10-05,9,180,1620,Beauty,App,Returning,60,3,At Risk,High Value,Gold
+CUST-053,Salman K,48,Male,West,Sales,Medium,2019-09-20,2022-11-10,2,95,190,Home Goods,Offline,Returning,15,1,Churned,Low Value,Bronze
+CUST-054,Sonam K,32,Female,South,Teacher,Medium,2022-08-05,2023-11-21,11,85,935,Apparel,Online,Returning,72,4,Retained,Mid Value,Silver
+CUST-055,Aamir K,45,Male,North,Engineer,High,2020-05-12,2023-09-20,7,210,1470,Electronics,App,Returning,46,3,At Risk,High Value,Gold
+CUST-056,Anil K,55,Male,East,Lawyer,High,2019-01-25,2023-11-25,20,195,3900,Home Goods,Online,Returning,91,5,Retained,High Value,Platinum
+CUST-057,Madhuri D,42,Female,West,Banker,High,2021-04-18,2022-12-05,4,175,700,Beauty,Offline,Returning,26,2,Churned,Mid Value,Silver
+CUST-058,Ajay D,44,Male,South,Manager,High,2020-11-08,2023-11-22,17,205,3485,Apparel,App,Returning,83,4,Retained,High Value,Gold
+CUST-059,Kajol D,41,Female,North,Analyst,Medium,2022-02-14,2023-08-30,6,120,720,Electronics,Online,Returning,38,3,At Risk,Mid Value,Silver
+CUST-060,Akshay K,47,Male,East,Entrepreneur,High,2019-07-22,2023-11-28,24,240,5760,Home Goods,App,Returning,95,5,Retained,High Value,Platinum
+CUST-061,Juhi C,38,Female,West,Designer,Medium,2021-09-05,2023-10-15,10,110,1100,Beauty,Online,Returning,64,4,Retained,Mid Value,Silver
+CUST-062,Saif A,40,Male,South,Doctor,High,2020-06-30,2022-10-20,3,185,555,Apparel,Offline,Returning,22,2,Churned,Low Value,Bronze
+CUST-063,Rani M,35,Female,North,Teacher,Medium,2022-11-18,2023-11-24,13,90,1170,Electronics,App,Returning,77,4,Retained,High Value,Gold
+CUST-064,Sanjay D,49,Male,East,Sales,Medium,2019-12-10,2023-09-05,5,100,500,Home Goods,Online,Returning,34,3,At Risk,Mid Value,Silver
+CUST-065,Preity Z,34,Female,West,Engineer,Medium,2023-01-25,2023-11-26,9,115,1035,Beauty,App,Returning,69,4,Retained,Mid Value,Silver
+CUST-066,Govinda A,46,Male,South,Lawyer,High,2020-08-15,2023-05-10,2,190,380,Apparel,Offline,Returning,18,1,Churned,Low Value,Bronze
+CUST-067,Karisma K,37,Female,North,Banker,High,2021-03-22,2023-11-29,18,170,3060,Electronics,Online,Returning,86,5,Retained,High Value,Gold
+CUST-068,Sunny D,51,Male,East,Manager,High,2019-02-05,2023-08-25,8,215,1720,Home Goods,App,Returning,45,3,At Risk,High Value,Gold
+CUST-069,Shilpa S,36,Female,West,Analyst,Medium,2022-07-12,2023-11-20,14,125,1750,Beauty,Online,Returning,80,4,Retained,High Value,Gold
+CUST-070,Bobby D,42,Male,South,Entrepreneur,High,2020-01-30,2022-11-15,4,235,940,Apparel,Offline,Returning,28,2,Churned,Mid Value,Silver
+CUST-071,Raveena T,33,Female,North,Designer,Medium,2023-04-08,2023-11-27,12,105,1260,Electronics,App,Returning,73,4,Retained,High Value,Gold
+CUST-072,Suniel S,48,Male,East,Doctor,High,2019-10-18,2023-09-12,6,195,1170,Home Goods,Online,Returning,40,3,At Risk,Mid Value,Silver
+CUST-073,Twinkle K,35,Female,West,Teacher,Medium,2021-12-20,2023-11-23,16,95,1520,Beauty,App,Returning,84,4,Retained,High Value,Gold
+CUST-074,Jackie S,50,Male,South,Sales,Medium,2020-04-10,2023-06-20,3,105,315,Apparel,Offline,Returning,20,1,Churned,Low Value,Bronze
+CUST-075,Pooja B,31,Female,North,Engineer,Medium,2022-09-15,2023-11-28,10,120,1200,Electronics,Online,Returning,67,4,Retained,Mid Value,Silver
+CUST-076,Chunky P,45,Male,East,Lawyer,High,2019-06-05,2023-08-18,7,185,1295,Home Goods,App,Returning,42,3,At Risk,Mid Value,Silver
+CUST-077,Sonali B,34,Female,West,Banker,High,2023-02-28,2023-11-25,15,165,2475,Beauty,Online,Returning,82,5,Retained,High Value,Gold
+CUST-078,Manoj B,47,Male,South,Manager,High,2020-09-22,2022-12-10,5,205,1025,Apparel,Offline,Returning,25,2,Churned,Mid Value,Silver
+CUST-079,Tabu H,39,Female,North,Analyst,Medium,2021-05-18,2023-11-21,19,135,2565,Electronics,App,Returning,89,5,Retained,High Value,Platinum
+CUST-080,Nana P,52,Male,East,Entrepreneur,High,2018-12-12,2023-09-08,9,245,2205,Home Goods,Online,Returning,48,3,At Risk,High Value,Gold
+CUST-081,Urmila M,32,Female,West,Designer,Medium,2022-10-05,2023-11-26,11,115,1265,Beauty,App,Returning,71,4,Retained,High Value,Gold
+CUST-082,Paresh R,49,Male,South,Doctor,High,2019-08-25,2023-04-15,2,190,380,Apparel,Offline,Returning,16,1,Churned,Low Value,Bronze
+CUST-083,Manisha K,36,Female,North,Teacher,Medium,2023-01-15,2023-11-29,14,90,1260,Electronics,Online,Returning,78,4,Retained,High Value,Gold
+CUST-084,Boman I,50,Male,East,Sales,Medium,2020-02-10,2023-08-22,6,100,600,Home Goods,App,Returning,35,3,At Risk,Mid Value,Silver
+CUST-085,Vidya B,37,Female,West,Engineer,Medium,2021-11-22,2023-11-24,17,125,2125,Beauty,Online,Returning,85,5,Retained,High Value,Gold
+CUST-086,Arshad W,43,Male,South,Lawyer,High,2019-05-18,2022-10-05,4,180,720,Apparel,Offline,Returning,24,2,Churned,Mid Value,Silver
+CUST-087,Nandita D,35,Female,North,Banker,High,2022-06-30,2023-11-27,20,175,3500,Electronics,App,Returning,92,5,Retained,High Value,Platinum
+CUST-088,Anupam K,55,Male,East,Manager,High,2018-10-15,2023-09-15,8,210,1680,Home Goods,Online,Returning,46,3,At Risk,High Value,Gold
+CUST-089,Konkona S,34,Female,West,Analyst,Medium,2023-03-05,2023-11-22,12,140,1680,Beauty,App,Returning,76,4,Retained,High Value,Gold
+CUST-090,Naseeruddin S,54,Male,South,Entrepreneur,High,2019-12-25,2023-05-20,3,250,750,Apparel,Offline,Returning,21,1,Churned,Mid Value,Silver
+CUST-091,Kalki K,30,Female,North,Designer,Medium,2022-08-12,2023-11-25,10,120,1200,Electronics,Online,Returning,68,4,Retained,Mid Value,Silver
+CUST-092,Kay Kay M,46,Male,East,Doctor,High,2020-07-18,2023-08-28,7,195,1365,Home Goods,App,Returning,39,3,At Risk,Mid Value,Silver
+CUST-093,Richa C,31,Female,West,Teacher,Medium,2023-05-20,2023-11-28,15,95,1425,Beauty,Online,Returning,81,4,Retained,High Value,Gold
+CUST-094,Pankaj T,48,Male,South,Sales,Medium,2019-03-10,2022-11-25,4,110,440,Apparel,Offline,Returning,27,2,Churned,Low Value,Bronze
+CUST-095,Swara B,29,Female,North,Engineer,Medium,2022-10-28,2023-11-26,13,130,1690,Electronics,App,Returning,74,4,Retained,High Value,Gold
+CUST-096,Nawazuddin S,45,Male,East,Lawyer,High,2020-01-22,2023-09-10,6,185,1110,Home Goods,Online,Returning,41,3,At Risk,Mid Value,Silver
+CUST-097,Radhika M,33,Female,West,Banker,High,2021-08-08,2023-11-23,18,160,2880,Beauty,App,Returning,87,5,Retained,High Value,Gold
+CUST-098,Irrfan K,51,Male,South,Manager,High,2018-09-14,2023-06-15,5,220,1100,Apparel,Offline,Returning,29,2,Churned,Mid Value,Silver
+CUST-099,Rasika D,28,Female,North,Analyst,Medium,2023-04-25,2023-11-29,11,145,1595,Electronics,Online,Returning,70,4,Retained,High Value,Gold
+CUST-100,Rajesh S,40,Male,East,Entrepreneur,High,2020-11-05,2023-08-20,8,230,1840,Home Goods,App,Returning,43,3,At Risk,High Value,Gold
