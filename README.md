@@ -1,45 +1,44 @@
-# Customer Segmentation & Retention Analytics in Power BI[cite: 1]
+# 📊 Customer Segmentation & Retention Analytics
 
-## Objective
-To create a Power BI dashboard that segments customers based on purchasing behavior and analyzes retention rates, helping businesses design loyalty programs and reduce churn.[cite: 1]
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-50E6FF?style=for-the-badge&logo=Microsoft&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white)
 
-## Tools Used
-* Power BI Desktop[cite: 1]
-* Power Query[cite: 1]
-* DAX (Data Analysis Expressions)[cite: 1]
+**[View High-Resolution Dashboard Preview](Dashboard%20Preview/your_image_name.png)**
 
-## Dataset Description
-A realistic sample dataset consisting of over 100 rows containing customer and transactional data.[cite: 1] Key fields include Customer ID, Age, Gender, City/Region, Total Spend, Purchase Frequency, Engagement Score, Retention Status, Customer Segment, and Loyalty Tier.[cite: 1]
+## 🚀 The Business Problem
+Companies across e-commerce and retail struggle to maximize Customer Lifetime Value (CLV) without clear visibility into purchasing behaviors. The objective of this project was to engineer a dynamic Business Intelligence tool that segments 100+ customers based on profitability and flags accounts at high risk of churning.
 
-## Power Query Steps
-The raw data was prepared, cleaned, and transformed using Power Query Editor with the following steps:[cite: 1]
-* Removing null values and handling duplicates.[cite: 1]
-* Changing data types to ensure accurate modeling.[cite: 1]
-* Creating calculated columns and formatting date fields properly.[cite: 1]
+## 💡 Solution & Executive Impact
+I developed an automated, end-to-end Power BI dashboard that transforms raw transactional data into an executive-ready model. 
+* **Targeted Interventions:** Segmented customers into actionable tiers (VIP, High Value, Mid Value, Low Value), enabling targeted marketing strategies.
+* **Churn Mitigation:** Engineered a visual "Traffic Light" retention matrix to instantly isolate "At Risk" and "Churned" revenue.
+* **Automated Logic:** Replaced manual reporting with Power Query transformations and dynamic DAX metrics.
 
-## DAX Measures
-Key performance indicators were calculated using DAX measures, including:[cite: 1]
-* **Total Customers**, **Total Revenue**, and **Average Order Value**.[cite: 1]
-* **Retention Rate %** and **Churn Rate %**.[cite: 1]
-* **Segment-wise Revenue** and **At-Risk Customers Count**.[cite: 1]
+## 📸 Executive View
+*(Click to enlarge)*
+![Dashboard Preview](Dashboard%20Preview/your_image_name.png)
 
-## Dashboard Features
-The dashboard is designed with a professional corporate layout utilizing a consistent color theme (corporate blue, green, and subtle orange/red for churn risk).[cite: 1] It includes:[cite: 1]
-* **Top section:** KPI cards displaying Total Customers, Revenue, AOV, Retention Rate, and Churn Rate.[cite: 1]
-* **Middle section:** Visuals including a Bar chart (Customer Segment comparison), Column chart (Revenue by Segment), Donut chart (Retention Status distribution), and Line chart (Customer retention trend over time).[cite: 1]
-* **Bottom section:** A Matrix table analyzing Segment vs Revenue vs Retention.[cite: 1]
-* **Left side:** Interactive slicers for Region, Segment, Channel, Loyalty Tier, and Gender.[cite: 1]
+## 🧠 Core Technical Skills Applied
 
-## Key Insights
-This dashboard enables businesses to derive critical insights, such as:[cite: 1]
-* Identifying which customer segment generates the highest revenue.[cite: 1]
-* Highlighting which customers are at risk of churn.[cite: 1]
-* Determining which channels and regions have better retention rates.[cite: 1]
-* Discovering which loyalty tier is most profitable to improve targeted marketing strategies.[cite: 1]
+### 1. Data Engineering (Power Query)
+* Ingested unstructured `.csv` files and modeled them into a relational schema.
+* Executed data cleaning protocols: handled nulls, removed duplicates, standardized data types, and built conditional grouping columns[cite: 1].
 
-## Screenshots
-![Dashboard Preview](Screenshots/Dashboard_Preview.png) 
-*(Note: Ensure your screenshot file is named correctly and placed in the appropriate folder before committing)*[cite: 1]
+### 2. Advanced DAX Calculations
+Developed robust measures to bypass circular dependencies and provide dynamic KPI tracking.
 
-## Conclusion
-This project demonstrates how companies use dashboards to understand customer behavior, segment customers, and improve retention.[cite: 1] It serves as a practical, real-world tool for marketing analysts, CRM analysts, and business analysts to drive repeat purchases and increase profitability.[cite: 1]
+```dax
+// Core Retention Metric
+Retention Rate % = 
+DIVIDE(
+    CALCULATE(
+        [Total Customers], 
+        Customer_Data[Retention Status] = "Retained"
+    ), 
+    [Total Customers], 
+    0
+)
+
+// Dynamic Revenue Calculation
+Total Revenue = SUM(Customer_Data[Total Spend])
