@@ -1,0 +1,121 @@
+Customer ID,Customer Name,Age,Gender,City/Region,Occupation,Income Level,Join Date,Last Purchase Date,Purchase Frequency,Average Order Value,Preferred Product Category,Purchase Channel,Engagement Score,Satisfaction Score,Total Spend,Customer Type,Retention Status,Customer Segment,Loyalty Tier
+CUST-1001,Aryan Rodriguez,56,Female,South,Business,Medium,2026-03-29 07:23:56.984556,2026-06-03 07:23:56.984556,2,612.18,Electronics,App,15,7.4,1224.36,New,Retained,Low Value,Bronze
+CUST-1002,Meera Anderson,69,Female,West,Student,Medium,2025-11-27 07:23:56.984556,2026-06-07 07:23:56.984556,5,612.18,Apparel,Offline,59,7.4,3060.8999999999996,New,Retained,Mid Value,Silver
+CUST-1003,Arjun Williams,46,Female,North,Business,Low,2024-11-29 07:23:56.984556,2026-05-29 07:23:56.984556,29,612.18,Home Goods,Online,19,7.4,17753.219999999998,Returning,Retained,VIP,Platinum
+CUST-1004,Sarah Rodriguez,32,Male,West,Student,Low,2025-06-07 07:23:56.984556,2026-03-24 07:23:56.984556,37,612.18,Home Goods,App,14,7.4,22650.66,Returning,At Risk,VIP,Platinum
+CUST-1005,David Patel,60,Male,West,Freelance,High,2025-02-05 07:23:56.984556,2026-03-18 07:23:56.984556,38,612.18,Electronics,Offline,32,7.4,23262.839999999997,Returning,At Risk,VIP,Platinum
+CUST-1006,Sneha Gupta,25,Male,East,Business,Medium,2025-06-24 07:23:56.984556,2026-05-20 07:23:56.984556,19,612.18,Electronics,App,19,7.4,11631.419999999998,New,Retained,High Value,Gold
+CUST-1007,Nina Anderson,38,Female,North,Freelance,Medium,2025-03-09 07:23:56.984556,2026-05-26 07:23:56.984556,8,612.18,Electronics,Offline,53,7.4,4897.44,Returning,Retained,Mid Value,Silver
+CUST-1008,James Lewis,56,Female,West,Business,Medium,2025-02-22 07:23:56.984556,2026-03-15 07:23:56.984556,48,612.18,Apparel,App,11,7.4,29384.64,Returning,Churned,VIP,Platinum
+CUST-1009,Leo Rodriguez,36,Female,West,Freelance,Medium,2026-04-21 07:23:56.984556,2026-05-29 07:23:56.984556,45,612.18,Electronics,Offline,22,7.4,27548.1,New,Retained,VIP,Platinum
+CUST-1010,Olivia Taylor,40,Male,South,Freelance,High,2025-12-17 07:23:56.984556,2026-05-06 07:23:56.984556,1,612.18,Home Goods,App,49,7.4,612.18,New,Retained,Low Value,Bronze
+CUST-1011,Emma Gupta,28,Female,West,Business,Low,2025-07-18 07:23:56.984556,2026-03-21 07:23:56.984556,22,612.18,Home Goods,Online,11,7.4,13467.96,New,At Risk,High Value,Gold
+CUST-1012,Michael Miller,28,Male,West,Business,Medium,2025-03-16 07:23:56.984556,2026-05-02 07:23:56.984556,17,612.18,Electronics,App,93,7.4,10407.06,Returning,Retained,High Value,Gold
+CUST-1013,Omar Garcia,41,Other,South,Business,Low,2025-01-04 07:23:56.984556,2026-04-04 07:23:56.984556,7,612.18,Electronics,Offline,74,7.4,4285.259999999999,Returning,At Risk,Mid Value,Silver
+CUST-1014,Anjali Moore,53,Female,East,Salaried,Low,2025-09-29 07:23:56.984556,2026-03-17 07:23:56.984556,25,612.18,Beauty,App,72,7.4,15304.499999999998,New,Churned,VIP,Platinum
+CUST-1015,Sophia Anderson,57,Female,West,Student,Medium,2026-02-05 07:23:56.984556,2026-04-16 07:23:56.984556,45,612.18,Home Goods,App,82,7.4,27548.1,New,At Risk,VIP,Platinum
+CUST-1016,Nina Patel,41,Male,South,Salaried,Low,2026-02-25 07:23:56.984556,2026-03-15 07:23:56.984556,4,612.18,Apparel,App,26,7.4,2448.72,New,Churned,Low Value,Bronze
+CUST-1017,Michael Martinez,20,Male,North,Salaried,Low,2025-01-09 07:23:56.984556,2026-05-27 07:23:56.984556,36,612.18,Beauty,App,18,7.4,22038.48,Returning,Retained,VIP,Platinum
+CUST-1018,Liam White,39,Male,East,Freelance,Medium,2025-12-19 07:23:56.984556,2026-06-07 07:23:56.984556,6,612.18,Electronics,Online,84,7.4,3673.08,New,Retained,Mid Value,Silver
+CUST-1019,Liam Rodriguez,19,Female,North,Business,High,2025-07-28 07:23:56.984556,2026-04-11 07:23:56.984556,31,612.18,Electronics,App,24,7.4,18977.579999999998,New,At Risk,VIP,Platinum
+CUST-1020,Priya White,41,Male,North,Student,Low,2025-07-04 07:23:56.984556,2026-04-21 07:23:56.984556,19,612.18,Home Goods,Offline,33,7.4,11631.419999999998,New,Retained,High Value,Gold
+CUST-1021,Sneha Brown,61,Male,South,Freelance,Low,2026-01-12 07:23:56.984556,2026-02-24 07:23:56.984556,44,612.18,Electronics,Offline,47,7.4,26935.92,New,Churned,VIP,Platinum
+CUST-1022,Amit Kumar,47,Male,West,Salaried,High,2025-07-11 07:23:56.984556,2026-05-24 07:23:56.984556,39,612.18,Apparel,Online,44,7.4,23875.019999999997,New,Retained,VIP,Platinum
+CUST-1023,Rahul Jones,55,Female,South,Business,High,2026-01-25 07:23:56.984556,2026-03-30 07:23:56.984556,27,612.18,Home Goods,App,58,7.4,16528.859999999997,New,At Risk,VIP,Platinum
+CUST-1024,Aryan Lewis,19,Male,South,Freelance,Medium,2026-04-08 07:23:56.984556,2026-05-16 07:23:56.984556,10,612.18,Electronics,App,78,7.4,6121.799999999999,New,Retained,Mid Value,Silver
+CUST-1025,Emma Anderson,38,Female,South,Business,Medium,2025-10-10 07:23:56.984556,2026-06-10 07:23:56.984556,26,612.18,Home Goods,Offline,71,7.4,15916.679999999998,New,Retained,VIP,Platinum
+CUST-1026,Priya Martinez,50,Female,South,Freelance,Medium,2025-07-21 07:23:56.984556,2026-03-20 07:23:56.984556,19,612.18,Electronics,App,69,7.4,11631.419999999998,New,At Risk,High Value,Gold
+CUST-1027,Sarah Johnson,29,Male,East,Business,Low,2026-05-24 07:23:56.984556,2026-02-18 07:23:56.984556,39,612.18,Electronics,Online,59,7.4,23875.019999999997,New,Churned,VIP,Platinum
+CUST-1028,Liam Verma,39,Female,West,Salaried,High,2024-09-05 07:23:56.984556,2026-04-26 07:23:56.984556,3,612.18,Electronics,Offline,87,7.4,1836.54,Returning,Retained,Low Value,Bronze
+CUST-1029,Michael Singh,61,Female,North,Student,High,2025-05-09 07:23:56.984556,2026-03-23 07:23:56.984556,45,612.18,Apparel,Offline,84,7.4,27548.1,Returning,At Risk,VIP,Platinum
+CUST-1030,Omar Davis,42,Male,North,Salaried,Medium,2025-10-02 07:23:56.984556,2026-03-23 07:23:56.984556,13,612.18,Apparel,Online,18,7.4,7958.339999999999,New,At Risk,Mid Value,Silver
+CUST-1031,Priya Martinez,66,Female,West,Student,Low,2025-07-18 07:23:56.984556,2026-03-04 07:23:56.984556,28,612.18,Home Goods,Offline,43,7.4,17141.039999999997,New,Churned,VIP,Platinum
+CUST-1032,Michael Wilson,44,Female,North,Business,High,2025-04-23 07:23:56.984556,2026-03-04 07:23:56.984556,20,612.18,Electronics,App,85,7.4,12243.599999999999,Returning,Churned,High Value,Gold
+CUST-1033,Sarah Johnson,59,Female,West,Freelance,Medium,2025-11-10 07:23:56.984556,2026-04-07 07:23:56.984556,28,612.18,Electronics,App,44,7.4,17141.039999999997,New,At Risk,VIP,Platinum
+CUST-1034,Sneha Smith,45,Female,North,Salaried,Medium,2025-09-23 07:23:56.984556,2026-04-05 07:23:56.984556,8,612.18,Apparel,Online,10,7.4,4897.44,New,At Risk,Mid Value,Silver
+CUST-1035,Omar Miller,33,Female,South,Student,Medium,2025-12-07 07:23:56.984556,2026-05-21 07:23:56.984556,41,612.18,Electronics,Offline,49,7.4,25099.379999999997,New,Retained,VIP,Platinum
+CUST-1036,James Lee,32,Male,North,Salaried,Medium,2026-03-24 07:23:56.984556,2026-04-03 07:23:56.984556,39,612.18,Apparel,Online,73,7.4,23875.019999999997,New,At Risk,VIP,Platinum
+CUST-1037,Aarav Gupta,64,Male,West,Student,High,2024-09-29 07:23:56.984556,2026-04-09 07:23:56.984556,1,612.18,Electronics,App,31,7.4,612.18,Returning,At Risk,Low Value,Bronze
+CUST-1038,Sarah Sharma,68,Male,West,Salaried,High,2025-02-09 07:23:56.984556,2026-04-05 07:23:56.984556,3,612.18,Home Goods,Online,69,7.4,1836.54,Returning,At Risk,Low Value,Bronze
+CUST-1039,Vikram Garcia,61,Male,West,Student,High,2024-08-22 07:23:56.984556,2026-04-06 07:23:56.984556,13,612.18,Electronics,App,73,7.4,7958.339999999999,Returning,At Risk,Mid Value,Silver
+CUST-1040,Emily Miller,69,Male,West,Student,Medium,2024-08-03 07:23:56.984556,2026-05-07 07:23:56.984556,28,612.18,Electronics,App,81,7.4,17141.039999999997,Returning,Retained,VIP,Platinum
+CUST-1041,Nina Lee,20,Female,West,Business,High,2025-07-20 07:23:56.984556,2026-04-27 07:23:56.984556,49,612.18,Beauty,App,20,7.4,29996.819999999996,New,Retained,VIP,Platinum
+CUST-1042,Emily Clark,54,Male,East,Student,Medium,2025-06-05 07:23:56.984556,2026-06-07 07:23:56.984556,25,612.18,Apparel,App,23,7.4,15304.499999999998,Returning,Retained,VIP,Platinum
+CUST-1043,Jessica Sharma,68,Male,East,Business,Medium,2025-10-05 07:23:56.984556,2026-04-16 07:23:56.984556,33,612.18,Electronics,Online,69,7.4,20201.94,New,At Risk,VIP,Platinum
+CUST-1044,Anjali Lewis,24,Male,North,Student,Low,2025-12-11 07:23:56.984556,2026-03-20 07:23:56.984556,38,612.18,Electronics,App,39,7.4,23262.839999999997,New,At Risk,VIP,Platinum
+CUST-1045,Liam Singh,38,Female,West,Freelance,High,2024-10-29 07:23:56.984556,2026-02-20 07:23:56.984556,6,612.18,Beauty,App,44,7.4,3673.08,Returning,Churned,Mid Value,Silver
+CUST-1046,Olivia Singh,26,Male,North,Freelance,High,2026-02-17 07:23:56.984556,2026-05-09 07:23:56.984556,44,612.18,Beauty,App,94,7.4,26935.92,New,Retained,VIP,Platinum
+CUST-1047,Daniel Moore,56,Female,West,Freelance,Medium,2025-01-25 07:23:56.984556,2026-06-04 07:23:56.984556,45,612.18,Apparel,Online,46,7.4,27548.1,Returning,Retained,VIP,Platinum
+CUST-1048,Vikram Lewis,35,Male,West,Student,High,2025-08-08 07:23:56.984556,2026-04-03 07:23:56.984556,32,612.18,Beauty,Online,14,7.4,19589.76,New,At Risk,VIP,Platinum
+CUST-1049,Nina Martinez,21,Male,East,Business,Medium,2025-05-02 07:23:56.984556,2026-05-22 07:23:56.984556,45,612.18,Home Goods,Online,92,7.4,27548.1,Returning,Retained,VIP,Platinum
+CUST-1050,Arjun Singh,42,Male,East,Business,Medium,2026-05-29 07:23:56.984556,2026-04-03 07:23:56.984556,47,612.18,Beauty,App,87,7.4,28772.46,New,At Risk,VIP,Platinum
+CUST-1051,Maya Verma,31,Male,South,Student,Medium,2025-03-25 07:23:56.984556,2026-03-25 07:23:56.984556,21,612.18,Home Goods,App,35,7.4,12855.779999999999,Returning,At Risk,High Value,Gold
+CUST-1052,Mia Moore,67,Female,East,Freelance,Medium,2025-03-25 07:23:56.984556,2026-04-19 07:23:56.984556,16,612.18,Apparel,App,71,7.4,9794.88,Returning,Retained,High Value,Gold
+CUST-1053,Zoe Martinez,26,Female,South,Freelance,Medium,2024-08-08 07:23:56.984556,2026-04-23 07:23:56.984556,21,612.18,Apparel,Online,13,7.4,12855.779999999999,Returning,Retained,High Value,Gold
+CUST-1054,Vikram Verma,43,Female,South,Business,Low,2026-04-20 07:23:56.984556,2026-03-07 07:23:56.984556,11,612.18,Apparel,App,98,7.4,6733.98,New,Churned,Mid Value,Silver
+CUST-1055,Michael Brown,19,Male,South,Freelance,Medium,2024-08-21 07:23:56.984556,2026-03-11 07:23:56.984556,37,612.18,Apparel,Offline,51,7.4,22650.66,Returning,Churned,VIP,Platinum
+CUST-1056,Omar Patel,37,Male,South,Salaried,Medium,2025-02-13 07:23:56.984556,2026-04-14 07:23:56.984556,36,612.18,Apparel,Offline,98,7.4,22038.48,Returning,At Risk,VIP,Platinum
+CUST-1057,Amit Brown,45,Male,South,Business,Medium,2025-06-08 07:23:56.984556,2026-06-04 07:23:56.984556,35,612.18,Home Goods,Online,27,7.4,21426.3,Returning,Retained,VIP,Platinum
+CUST-1058,Zoe Johnson,64,Male,North,Freelance,Medium,2026-03-16 07:23:56.984556,2026-05-14 07:23:56.984556,19,612.18,Home Goods,App,49,7.4,11631.419999999998,New,Retained,High Value,Gold
+CUST-1059,Anjali Gupta,24,Female,East,Business,Medium,2025-04-12 07:23:56.984556,2026-05-24 07:23:56.984556,20,612.18,Apparel,Online,81,7.4,12243.599999999999,Returning,Retained,High Value,Gold
+CUST-1060,Maya Garcia,61,Male,South,Salaried,Medium,2024-11-20 07:23:56.984556,2026-05-12 07:23:56.984556,18,612.18,Beauty,App,48,7.4,11019.24,Returning,Retained,High Value,Gold
+CUST-1061,Sophia Martinez,25,Male,West,Business,Medium,2026-04-01 07:23:56.984556,2026-05-01 07:23:56.984556,47,612.18,Electronics,App,23,7.4,28772.46,New,Retained,VIP,Platinum
+CUST-1062,Mia Garcia,64,Male,East,Business,Medium,2025-04-30 07:23:56.984556,2026-04-26 07:23:56.984556,41,612.18,Apparel,Online,41,7.4,25099.379999999997,Returning,Retained,VIP,Platinum
+CUST-1063,Neha Miller,52,Male,East,Business,Medium,2025-05-28 07:23:56.984556,2026-02-28 07:23:56.984556,49,612.18,Beauty,App,60,7.4,29996.819999999996,Returning,Churned,VIP,Platinum
+CUST-1064,Arjun Sharma,31,Female,South,Business,Medium,2025-10-16 07:23:56.984556,2026-05-26 07:23:56.984556,14,612.18,Electronics,Online,47,7.4,8570.519999999999,New,Retained,High Value,Gold
+CUST-1065,Nina Davis,34,Female,North,Salaried,High,2024-12-06 07:23:56.984556,2026-03-09 07:23:56.984556,15,612.18,Apparel,Offline,32,7.4,9182.699999999999,Returning,Churned,High Value,Gold
+CUST-1066,Meera Clark,53,Male,South,Student,Low,2025-10-13 07:23:56.984556,2026-03-17 07:23:56.984556,31,612.18,Apparel,Offline,72,7.4,18977.579999999998,New,Churned,VIP,Platinum
+CUST-1067,Anjali Lee,67,Other,North,Business,Medium,2025-11-28 07:23:56.984556,2026-04-07 07:23:56.984556,1,612.18,Home Goods,Offline,24,7.4,612.18,New,At Risk,Low Value,Bronze
+CUST-1068,Arjun Singh,57,Male,West,Business,High,2025-04-01 07:23:56.984556,2026-04-22 07:23:56.984556,3,612.18,Electronics,App,34,7.4,1836.54,Returning,Retained,Low Value,Bronze
+CUST-1069,Vikram Das,21,Other,East,Freelance,Medium,2026-04-21 07:23:56.984556,2026-05-04 07:23:56.984556,16,612.18,Electronics,Offline,26,7.4,9794.88,New,Retained,High Value,Gold
+CUST-1070,Amit Wilson,19,Male,West,Business,Medium,2024-10-02 07:23:56.984556,2026-04-29 07:23:56.984556,23,612.18,Beauty,App,75,7.4,14080.14,Returning,Retained,High Value,Gold
+CUST-1071,Arjun Singh,23,Male,North,Freelance,Medium,2026-03-21 07:23:56.984556,2026-05-08 07:23:56.984556,11,612.18,Home Goods,App,87,7.4,6733.98,New,Retained,Mid Value,Silver
+CUST-1072,Leo Anderson,59,Male,North,Student,Medium,2024-12-20 07:23:56.984556,2026-03-19 07:23:56.984556,12,612.18,Home Goods,App,62,7.4,7346.16,Returning,At Risk,Mid Value,Silver
+CUST-1073,Meera Gupta,21,Female,West,Salaried,High,2025-08-24 07:23:56.984556,2026-03-28 07:23:56.984556,10,612.18,Home Goods,App,60,7.4,6121.799999999999,New,At Risk,Mid Value,Silver
+CUST-1074,Maya Lee,46,Female,North,Salaried,Low,2024-10-09 07:23:56.984556,2026-03-03 07:23:56.984556,32,612.18,Home Goods,App,48,7.4,19589.76,Returning,Churned,VIP,Platinum
+CUST-1075,Vikram Lee,35,Female,West,Student,Medium,2025-12-10 07:23:56.984556,2026-06-05 07:23:56.984556,16,612.18,Electronics,Offline,60,7.4,9794.88,New,Retained,High Value,Gold
+CUST-1076,Aarav Miller,43,Male,East,Salaried,Medium,2026-01-28 07:23:56.984556,2026-03-03 07:23:56.984556,8,612.18,Electronics,Offline,79,7.4,4897.44,New,Churned,Mid Value,Silver
+CUST-1077,Sophia Sharma,61,Female,West,Student,High,2026-05-14 07:23:56.984556,2026-02-27 07:23:56.984556,38,612.18,Apparel,App,15,7.4,23262.839999999997,New,Churned,VIP,Platinum
+CUST-1078,Kavya Brown,51,Female,East,Student,Medium,2025-10-21 07:23:56.984556,2026-04-27 07:23:56.984556,12,612.18,Apparel,App,76,7.4,7346.16,New,Retained,Mid Value,Silver
+CUST-1079,Aarav Patel,27,Male,West,Student,Medium,2024-12-12 07:23:56.984556,2026-04-01 07:23:56.984556,24,612.18,Home Goods,Online,16,7.4,14692.32,Returning,At Risk,High Value,Gold
+CUST-1080,Michael Anderson,53,Male,North,Salaried,Medium,2024-07-21 07:23:56.984556,2026-06-03 07:23:56.984556,28,612.18,Home Goods,Offline,60,7.4,17141.039999999997,Returning,Retained,VIP,Platinum
+CUST-1081,Nina Martinez,31,Male,West,Freelance,High,2025-03-06 07:23:56.984556,2026-04-30 07:23:56.984556,8,612.18,Home Goods,Offline,81,7.4,4897.44,Returning,Retained,Mid Value,Silver
+CUST-1082,Sneha Das,48,Female,North,Student,Medium,2024-08-04 07:23:56.984556,2026-03-23 07:23:56.984556,28,612.18,Apparel,App,51,7.4,17141.039999999997,Returning,At Risk,VIP,Platinum
+CUST-1083,Anjali Jones,65,Male,West,Business,Medium,2025-01-02 07:23:56.984556,2026-05-22 07:23:56.984556,36,612.18,Beauty,Online,73,7.4,22038.48,Returning,Retained,VIP,Platinum
+CUST-1084,Rahul Kumar,32,Other,West,Salaried,Medium,2024-09-26 07:23:56.984556,2026-03-11 07:23:56.984556,26,612.18,Beauty,Online,24,7.4,15916.679999999998,Returning,Churned,VIP,Platinum
+CUST-1085,Sophia Kumar,25,Male,South,Student,Medium,2024-10-27 07:23:56.984556,2026-05-29 07:23:56.984556,8,612.18,Apparel,Offline,38,7.4,4897.44,Returning,Retained,Mid Value,Silver
+CUST-1086,Emma White,31,Female,North,Student,Medium,2026-01-11 07:23:56.984556,2026-05-11 07:23:56.984556,28,612.18,Apparel,Offline,42,7.4,17141.039999999997,New,Retained,VIP,Platinum
+CUST-1087,Anjali Moore,40,Female,South,Business,Medium,2025-04-26 07:23:56.984556,2026-05-04 07:23:56.984556,28,612.18,Apparel,App,36,7.4,17141.039999999997,Returning,Retained,VIP,Platinum
+CUST-1088,Liam Das,57,Male,North,Freelance,Low,2025-11-24 07:23:56.984556,2026-06-04 07:23:56.984556,37,612.18,Apparel,Online,45,7.4,22650.66,New,Retained,VIP,Platinum
+CUST-1089,Nina Johnson,38,Female,South,Freelance,Low,2025-01-17 07:23:56.984556,2026-04-24 07:23:56.984556,41,612.18,Apparel,App,38,7.4,25099.379999999997,Returning,Retained,VIP,Platinum
+CUST-1090,Sarah Johnson,33,Female,East,Freelance,High,2024-09-28 07:23:56.984556,2026-05-30 07:23:56.984556,36,612.18,Apparel,Online,47,7.4,22038.48,Returning,Retained,VIP,Platinum
+CUST-1091,Michael Taylor,62,Female,West,Student,High,2026-04-09 07:23:56.984556,2026-05-24 07:23:56.984556,27,612.18,Home Goods,App,66,7.4,16528.859999999997,New,Retained,VIP,Platinum
+CUST-1092,Liam Brown,35,Male,North,Student,Medium,2025-06-15 07:23:56.984556,2026-03-13 07:23:56.984556,17,612.18,Home Goods,Online,36,7.4,10407.06,Returning,Churned,High Value,Gold
+CUST-1093,Aarav Das,64,Male,North,Student,High,2024-08-19 07:23:56.984556,2026-04-06 07:23:56.984556,9,612.18,Home Goods,Online,64,7.4,5509.62,Returning,At Risk,Mid Value,Silver
+CUST-1094,Leo Singh,41,Female,West,Salaried,Medium,2025-11-18 07:23:56.984556,2026-04-07 07:23:56.984556,33,612.18,Home Goods,App,42,7.4,20201.94,New,At Risk,VIP,Platinum
+CUST-1095,Arjun Martinez,43,Female,North,Business,Medium,2025-05-30 07:23:56.984556,2026-03-14 07:23:56.984556,20,612.18,Apparel,App,77,7.4,12243.599999999999,Returning,Churned,High Value,Gold
+CUST-1096,Emily Das,42,Male,North,Student,Medium,2024-10-16 07:23:56.984556,2026-03-13 07:23:56.984556,13,612.18,Beauty,App,95,7.4,7958.339999999999,Returning,Churned,Mid Value,Silver
+CUST-1097,Nina Anderson,62,Male,South,Business,Low,2025-01-23 07:23:56.984556,2026-04-16 07:23:56.984556,28,612.18,Electronics,App,75,7.4,17141.039999999997,Returning,At Risk,VIP,Platinum
+CUST-1098,Emma Rodriguez,58,Female,North,Business,Low,2025-12-12 07:23:56.984556,2026-03-12 07:23:56.984556,48,612.18,Apparel,App,19,7.4,29384.64,New,Churned,VIP,Platinum
+CUST-1099,Olivia Miller,46,Male,East,Freelance,Medium,2024-09-21 07:23:56.984556,2026-04-08 07:23:56.984556,29,612.18,Electronics,Online,14,7.4,17753.219999999998,Returning,At Risk,VIP,Platinum
+CUST-1100,Maya Taylor,32,Female,East,Salaried,Medium,2025-02-10 07:23:56.984556,2026-02-24 07:23:56.984556,13,612.18,Beauty,App,83,7.4,7958.339999999999,Returning,Churned,Mid Value,Silver
+CUST-1101,Amit Martinez,62,Female,West,Student,Medium,2025-12-06 07:23:56.984556,2026-04-24 07:23:56.984556,46,612.18,Home Goods,Offline,47,7.4,28160.28,New,Retained,VIP,Platinum
+CUST-1102,Sarah Jones,18,Female,North,Freelance,High,2025-06-10 07:23:56.984556,2026-06-06 07:23:56.984556,35,612.18,Beauty,App,22,7.4,21426.3,Returning,Retained,VIP,Platinum
+CUST-1103,Amit Moore,42,Female,West,Freelance,High,2026-06-04 07:23:56.984556,2026-03-13 07:23:56.984556,6,612.18,Apparel,App,40,7.4,3673.08,New,Churned,Mid Value,Silver
+CUST-1104,Kavya Sharma,24,Male,East,Student,Low,2025-01-24 07:23:56.984556,2026-05-12 07:23:56.984556,18,612.18,Home Goods,App,56,7.4,11019.24,Returning,Retained,High Value,Gold
+CUST-1105,Leo Lewis,26,Female,North,Business,High,2026-05-21 07:23:56.984556,2026-03-16 07:23:56.984556,5,612.18,Apparel,App,97,7.4,3060.8999999999996,New,Churned,Mid Value,Silver
+CUST-1106,Sophia Anderson,41,Female,North,Freelance,High,2026-02-26 07:23:56.984556,2026-03-09 07:23:56.984556,47,612.18,Home Goods,Offline,61,7.4,28772.46,New,Churned,VIP,Platinum
+CUST-1107,Neha Miller,18,Male,West,Business,High,2024-11-23 07:23:56.984556,2026-04-08 07:23:56.984556,25,612.18,Electronics,App,65,7.4,15304.499999999998,Returning,At Risk,VIP,Platinum
+CUST-1108,Leo Williams,61,Male,East,Salaried,Low,2024-11-29 07:23:56.984556,2026-05-30 07:23:56.984556,2,612.18,Electronics,Online,24,7.4,1224.36,Returning,Retained,Low Value,Bronze
+CUST-1109,David Taylor,25,Other,North,Business,High,2025-03-03 07:23:56.984556,2026-06-11 07:23:56.984556,10,612.18,Electronics,App,38,7.4,6121.799999999999,Returning,Retained,Mid Value,Silver
+CUST-1110,Jessica White,41,Female,West,Salaried,Medium,2025-02-25 07:23:56.984556,2026-05-30 07:23:56.984556,30,612.18,Beauty,App,17,7.4,18365.399999999998,Returning,Retained,VIP,Platinum
+CUST-1111,Sneha Jones,28,Male,East,Business,High,2025-04-29 07:23:56.984556,2026-05-01 07:23:56.984556,45,612.18,Apparel,Online,14,7.4,27548.1,Returning,Retained,VIP,Platinum
+CUST-1112,Kavya Verma,68,Other,West,Freelance,High,2025-05-19 07:23:56.984556,2026-04-03 07:23:56.984556,5,612.18,Beauty,App,38,7.4,3060.8999999999996,Returning,At Risk,Mid Value,Silver
+CUST-1113,Arjun Sharma,34,Other,South,Freelance,Medium,2025-11-30 07:23:56.984556,2026-06-10 07:23:56.984556,33,612.18,Electronics,App,56,7.4,20201.94,New,Retained,VIP,Platinum
+CUST-1114,Daniel Smith,25,Female,North,Salaried,High,2024-12-13 07:23:56.984556,2026-05-17 07:23:56.984556,1,612.18,Apparel,App,77,7.4,612.18,Returning,Retained,Low Value,Bronze
+CUST-1115,Aryan Jones,52,Female,South,Student,High,2024-12-14 07:23:56.984556,2026-04-13 07:23:56.984556,18,612.18,Electronics,App,85,7.4,11019.24,Returning,At Risk,High Value,Gold
+CUST-1116,Rahul Martinez,52,Male,East,Salaried,High,2026-03-15 07:23:56.984556,2026-06-05 07:23:56.984556,32,612.18,Beauty,Online,54,7.4,19589.76,New,Retained,VIP,Platinum
+CUST-1117,Maya Taylor,50,Male,South,Salaried,Medium,2025-12-15 07:23:56.984556,2026-04-26 07:23:56.984556,47,612.18,Beauty,App,11,7.4,28772.46,New,Retained,VIP,Platinum
+CUST-1118,Leo Das,22,Female,South,Business,Medium,2026-03-18 07:23:56.984556,2026-04-08 07:23:56.984556,49,612.18,Beauty,App,36,7.4,29996.819999999996,New,At Risk,VIP,Platinum
+CUST-1119,James Brown,59,Female,East,Business,Medium,2025-06-11 07:23:56.984556,2026-03-08 07:23:56.984556,11,612.18,Electronics,Offline,45,7.4,6733.98,Returning,Churned,Mid Value,Silver
+CUST-1120,Arjun Das,56,Female,West,Salaried,High,2024-10-17 07:23:56.984556,2026-04-07 07:23:56.984556,21,612.18,Apparel,App,45,7.4,12855.779999999999,Returning,At Risk,High Value,Gold
