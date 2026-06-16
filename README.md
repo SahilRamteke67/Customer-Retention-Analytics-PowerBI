@@ -17,7 +17,7 @@ I developed an automated, end-to-end Power BI dashboard that transforms raw tran
 
 ## 📸 Executive View
 *(Click to enlarge)*
-![Dashboard Preview](Dashboard%20Preview/your_image_name.png)
+![Dashboard Preview](Dashboard%20Preview/Customer_Retention_Dashboard.png)
 
 ## 🧠 Core Technical Skills Applied
 
