@@ -4,8 +4,6 @@
 ![Power Query](https://img.shields.io/badge/Power_Query-50E6FF?style=for-the-badge&logo=Microsoft&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white)
 
-**[View High-Resolution Dashboard Preview](Dashboard%20Preview/Customer_Retention_Dashboard.png)**
-
 ## 🚀 The Business Problem
 Companies across e-commerce and retail struggle to maximize Customer Lifetime Value (CLV) without clear visibility into purchasing behaviors. The objective of this project was to engineer a dynamic Business Intelligence tool that segments 100+ customers based on profitability and flags accounts at high risk of churning.
 
